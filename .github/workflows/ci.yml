@@ -59,4 +59,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: mukill3r/ci-example:latest
+          tags: luizsuliman/cicd:latest
